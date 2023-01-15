@@ -1,6 +1,6 @@
 <!-- 统计图 -->
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=dark&count_private=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=dark&count_private=true" width="400">
 </div>
 
 <!-- 导航 -->
