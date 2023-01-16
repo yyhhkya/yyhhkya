@@ -5,8 +5,8 @@
   <a herf="https://blog.isyyo.com"><img src="https://img.shields.io/badge/博客-Wer%20Blog-brightgreen"></a>
 </div>
 
+<h2 align='center'><i>其他💡</h2>
 <!-- 访客 -->
-<h2 align='center'><i>访客💡</h2>
 <div align=center><img src="https://profile-counter.glitch.me/yyhhkya/count.svg"></div>
 
 <!-- 统计图 -->
