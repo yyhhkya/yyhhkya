@@ -1,7 +1,5 @@
 <!-- 统计图 -->
-<!-- <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=dark&count_private=true">
-</div> -->
+![](https://github-readme-activity-graph.cyclic.app/graph?username=yyhhkya&theme=dracula)
 
 <!-- 导航 -->
 <h2 align='center'><i>导航🌏</h2>
