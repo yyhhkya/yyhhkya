@@ -1,7 +1,7 @@
 <!-- 统计图 -->
-<div>
+<!-- <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=dark&count_private=true">
-</div>
+</div> -->
 
 <!-- 导航 -->
 <h2 align='center'><i>导航🌏</h2>
