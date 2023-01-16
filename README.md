@@ -1,6 +1,3 @@
-<!-- 统计图 -->
-![](https://github-readme-activity-graph.cyclic.app/graph?username=yyhhkya&theme=dracula)
-
 <!-- 导航 -->
 <h2 align='center'><i>导航🌏</h2>
 <div align=center>
@@ -12,4 +9,5 @@
 <h2 align='center'><i>访客💡</h2>
 <div align=center><img src="https://profile-counter.glitch.me/yyhhkya/count.svg"></div>
 
-
+<!-- 统计图 -->
+![](https://github-readme-activity-graph.cyclic.app/graph?username=yyhhkya&theme=dracula)
