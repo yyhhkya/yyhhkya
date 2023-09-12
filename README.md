@@ -1,5 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:yyhhkya?theme=rule34">
-<img align="right" alt="GIF" src="./img/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="./img/code.gif" width="430" height="100%">
 
 
 
