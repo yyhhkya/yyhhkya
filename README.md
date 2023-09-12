@@ -9,4 +9,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=vue)
 
-<img align="right" alt="GIF" src="./img/code.gif" width="430" height="100%">
+<img align="right" alt="GIF" src="./img/code.gif" width="370" height="100%">
