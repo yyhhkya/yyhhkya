@@ -7,5 +7,7 @@
 	<a href="https://blog.isyyo.com/"><img src="https://img.shields.io/badge/博客-Wer%20Blog-brightgreen"></a>
 </div>
 
+<hr>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=vue">
 <img align="right" alt="GIF" src="./img/code.gif" width="300" height="100%">
