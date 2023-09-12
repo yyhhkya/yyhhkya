@@ -8,6 +8,6 @@
 </div>
 
 <div>
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=vue">
-	<img align="right" alt="GIF" src="./img/code.gif" width="300" height="100%">
+	<li><img align="left" src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true&theme=vue"></li>
+	<li><img align="right" alt="GIF" src="./img/code.gif" width="300" height="100%"></li>
 </div>
