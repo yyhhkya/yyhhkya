@@ -28,5 +28,5 @@ Internet factory workers
 
 <img src="https://github-readme-stats.vercel.app/api?username=yyhhkya&show_icons=true" />
 
-![code](./img/code.gif)
-<!-- <img alt="GIF" src="./img/code.gif" width="300" height="100%"> -->
+<!-- ![code](./img/code.gif) -->
+<img alt="GIF" src="./img/code.gif" width="300" height="100%">
