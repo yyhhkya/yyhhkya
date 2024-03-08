@@ -2,7 +2,6 @@
 
 Internet factory workers
 
-Visits since 2023/4/12  
 ![visits](https://count.getloli.com/get/@:yyhhkya?theme=rule34)
 
 ## 🔍 Related
