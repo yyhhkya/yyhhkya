@@ -16,6 +16,8 @@
 ![PHP](https://img.shields.io/badge/php-2C8EBB.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Kether](https://img.shields.io/badge/Kether-5546a3.svg?style=for-the-badge)
 
+![skill](/img/skill.svg)
+
 ## 🌎 Social
 
 [![https://isyyo.com/](https://img.shields.io/badge/https://isyyo.com/-aacdf4?style=for-the-badge)](https://isyyo.com/)
