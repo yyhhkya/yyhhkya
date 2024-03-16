@@ -11,11 +11,10 @@
 
 ## ✨ Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-2C8EBB.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kether](https://img.shields.io/badge/Kether-5546a3.svg?style=for-the-badge)
-
+![Kether](https://img.shields.io/badge/Kether-5546a3.svg?style=for-the-badge) -->
 ![skill](/img/skill.svg)
 
 ## 🌎 Social
