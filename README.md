@@ -22,8 +22,8 @@
 [![https://isyyo.com/](https://img.shields.io/badge/https://isyyo.com/-aacdf4?style=for-the-badge)](https://isyyo.com/)
 
 [![E-mail i@hiwer.cn](https://img.shields.io/badge/E--mail_i@hiwer.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@hiwer.cn)
-![QQ 1163635725](https://img.shields.io/badge/QQ_1163635725-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)
-[![TG @yyhhkya](https://img.shields.io/badge/TG_@yyhhkya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yyhhkya)
+<!-- ![QQ 1163635725](https://img.shields.io/badge/QQ_1163635725-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)
+[![TG @yyhhkya](https://img.shields.io/badge/TG_@yyhhkya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yyhhkya) -->
 
 ## 🕒 Stats
 
