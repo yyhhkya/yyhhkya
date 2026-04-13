@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_BASE_URL: "https://wakapi.dev/api"
+          API_BASE_URL: https://wakapi.dev/api
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
