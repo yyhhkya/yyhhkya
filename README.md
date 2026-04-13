@@ -10,10 +10,6 @@
 1. ❌ Closed PR [#111](https://github.com/yyhhkya/fuwari/pull/111) in [yyhhkya/fuwari](https://github.com/yyhhkya/fuwari)
 <!--END_SECTION:activity-->
 
-
-
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
