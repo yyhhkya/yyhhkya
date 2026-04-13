@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: yyhhkya/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
@@ -30,5 +30,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
-          WAKATIME_API_URL: "https://wakapi.dev/api"
           DEBUG_LOGGING: "True"
