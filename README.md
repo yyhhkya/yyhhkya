@@ -7,5 +7,5 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-<!-- Your activity will be automatically inserted here -->
+1. ❌ Closed PR [#111](https://github.com/yyhhkya/fuwari/pull/111) in [yyhhkya/fuwari](https://github.com/yyhhkya/fuwari)
 <!--END_SECTION:activity-->
