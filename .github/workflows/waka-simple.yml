@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:  # Allows manual trigger
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   update-readme:

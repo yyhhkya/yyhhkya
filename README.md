@@ -11,6 +11,10 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-simple-->
+<!-- Your simple stats will be automatically inserted here -->
+<!--END_SECTION:waka-simple-->
+
+<!--START_SECTION:waka-simple-->
 
 ```text
 No activity tracked
