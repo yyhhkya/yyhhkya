@@ -4,7 +4,7 @@
 
 ![visits](https://count.getloli.com/get/@:yyhhkya?theme=rule34)
 
-**:zap: Recent Activity:**
+## **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#111](https://github.com/yyhhkya/fuwari/pull/111) in [yyhhkya/fuwari](https://github.com/yyhhkya/fuwari)
