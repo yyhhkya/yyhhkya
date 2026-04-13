@@ -10,9 +10,9 @@
 1. ❌ Closed PR [#111](https://github.com/yyhhkya/fuwari/pull/111) in [yyhhkya/fuwari](https://github.com/yyhhkya/fuwari)
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-simple-->
-<!-- Your simple stats will be automatically inserted here -->
-<!--END_SECTION:waka-simple-->
+<!--START_SECTION:waka-->
+<!-- Your stats will be automatically inserted here -->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
 
