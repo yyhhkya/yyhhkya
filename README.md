@@ -7,7 +7,7 @@
 ## **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#111](https://github.com/yyhhkya/fuwari/pull/111) in [yyhhkya/fuwari](https://github.com/yyhhkya/fuwari)
+1. 🚀 Published release [2.1.0](https://github.com/yyhhkya/bili_barrage/releases/tag/2.1.0) in [yyhhkya/bili_barrage](https://github.com/yyhhkya/bili_barrage)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
