@@ -11,15 +11,13 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2015%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137.90%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.13%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 152.7 kB Used in GitHub's Storage 
  > 
-> 🏆 386 Contributions in the Year 2026
+> 🏆 389 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +25,31 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+🌆 Daytime                501 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
+🌃 Evening                561 commits         ██████████░░░░░░░░░░░░░░░   40.39 % 
+🌙 Night                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 0 secs              ███████████████████████░░   92.10 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+
+🐱‍💻 Projects: 
+Unknown Project          0 secs              ███████████████████░░░░░░   75.52 % 
+bili_register            0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -40,5 +63,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 05:04:48 UTC
+ Last Updated on 22/05/2026 04:56:03 UTC
 <!--END_SECTION:waka-->
