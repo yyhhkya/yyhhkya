@@ -11,61 +11,32 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2016%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.82%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 152.8 kB Used in GitHub's Storage 
+> 📦 152.7 kB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2026
+> 🏆 413 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌆 Daytime                510 commits         █████████░░░░░░░░░░░░░░░░   36.25 % 
-🌃 Evening                562 commits         ██████████░░░░░░░░░░░░░░░   39.94 % 
-🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 26 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
-TypeScript               21 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
-YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-
-🐱‍💻 Projects: 
-koishi-app               40 mins             ███████████████░░░░░░░░░░   61.20 % 
-cat-raising              25 mins             ██████████░░░░░░░░░░░░░░░   38.80 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 05:04:47 UTC
+ Last Updated on 29/05/2026 05:06:39 UTC
 <!--END_SECTION:waka-->
