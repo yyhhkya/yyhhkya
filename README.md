@@ -7,7 +7,7 @@
 ## **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.4.1](https://github.com/yyhhkya/bili_barrage/releases/tag/2.4.1) in [yyhhkya/bili_barrage](https://github.com/yyhhkya/bili_barrage)
+1. 🚀 Published release [0.0.1](https://github.com/yyhhkya/bili-live-stats/releases/tag/0.0.1) in [yyhhkya/bili-live-stats](https://github.com/yyhhkya/bili-live-stats)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
