@@ -11,29 +11,29 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-106.88%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.69%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 153.4 kB Used in GitHub's Storage 
+> 📦 153.9 kB Used in GitHub's Storage 
  > 
-> 🏆 493 Contributions in the Year 2026
+> 🏆 548 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-🌆 Daytime                443 commits         █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌃 Evening                449 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌙 Night                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+🌞 Morning                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+🌆 Daytime                468 commits         ██████████░░░░░░░░░░░░░░░   38.02 % 
+🌃 Evening                454 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌙 Night                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 ```
 
 
@@ -43,32 +43,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               23 hrs 6 mins       ██████████████░░░░░░░░░░░   57.01 % 
-Svelte                   8 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Markdown                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-JSON                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               21 hrs 53 mins      █████████████░░░░░░░░░░░░   51.21 % 
+Svelte                   10 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       22 hrs              ██████████████░░░░░░░░░░░   54.30 % 
-bili-redpacket           15 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.79 % 
-cat-raising              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-koishi-app               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-fuwari                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+bili-redpacket-web       28 hrs 47 mins      █████████████████░░░░░░░░   67.34 % 
+bili-redpacket           11 hrs              ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+cat-raising              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+koishi-app               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+fuwari                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 ```
 
 
 
 
- Last Updated on 11/07/2026 04:00:44 UTC
+ Last Updated on 12/07/2026 04:21:33 UTC
 <!--END_SECTION:waka-->
