@@ -11,17 +11,17 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205.97%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.9 kB Used in GitHub's Storage 
  > 
-> 🏆 766 Contributions in the Year 2026
+> 🏆 767 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                327 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-🌆 Daytime                636 commits         ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                523 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌙 Night                  174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+🌞 Morning                330 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌆 Daytime                637 commits         ██████████░░░░░░░░░░░░░░░   38.19 % 
+🌃 Evening                527 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌙 Night                  174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 ```
 
 
@@ -45,44 +45,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-TypeScript               5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Go                       4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-CSS                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Go                       6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+Markdown                 5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+TypeScript               3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Svelte                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-prism                    7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
-bili-redpacket-web       7 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-fuwari                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-自传                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Unknown Project          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+bili-redpacket-web       11 hrs 14 mins      ███████████████░░░░░░░░░░   60.91 % 
+prism                    2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+fuwari                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+自传                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+bili-danmaku-output      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 38 mins (98.26%)
+⏱ AI Coding Time: 17 hrs 58 mins (97.47%)
 
-✍️ 24,081 lines written by AI, 252 lines written by hand (98.96% AI-written)
+✍️ 20,215 lines written by AI, 254 lines written by hand (98.76% AI-written)
 
-🔤 317,841,597 Input Tokens, 1,657,189 Output Tokens
+🔤 380,587,223 Input Tokens, 725,833 Output Tokens
 
-💵 $1613.91 Estimated AI Cost This Week
+💵 $1918.14 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 396 AI Prompts
+🧠 79 AI Sessions, 242 AI Prompts
 
-Opus                     15,534 lines        █████████████████░░░░░░░░   69.48 % 
-Cursor                   6,358 lines         ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Grok                     461 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Opus                     17,585 lines        █████████████████████░░░░   83.87 % 
+Cursor                   3,377 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 Deepseek                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.96% of written lines came from AI
-📚 Verbose Prompter — average 11,665 characters per prompt
+🤖 AI-Driven — 98.76% of written lines came from AI
+📚 Verbose Prompter — average 1,805 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.6% of changed lines were hand-edited
+🚀 High AI Trust — 3.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 05:16:40 UTC
+ Last Updated on 03/09/2026 05:22:20 UTC
 <!--END_SECTION:waka-->
