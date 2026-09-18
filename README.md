@@ -21,7 +21,7 @@
 
 > 📦 155.9 kB Used in GitHub's Storage 
  > 
-> 🏆 825 Contributions in the Year 2026
+> 🏆 826 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                442 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌆 Daytime                748 commits         ██████████░░░░░░░░░░░░░░░   38.20 % 
-🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌙 Night                  192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌞 Morning                442 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+🌆 Daytime                749 commits         ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 ```
 
 
@@ -45,44 +45,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
-Markdown                 7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Git Config               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Other                    1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+TypeScript               10 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Markdown                 9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Go                       3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Git Config               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🐱‍💻 Projects: 
-yanglaila                31 hrs 25 mins      ████████████████████████░   95.12 % 
-亲密喂养                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-client                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Downloads                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-server                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+yanglaila                28 hrs 56 mins      ███████████████████████░░   90.43 % 
+miemiefa                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+亲密喂养                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Downloads                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+server                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 7 mins (94.19%)
+⏱ AI Coding Time: 30 hrs 27 mins (95.18%)
 
-✍️ 20,961 lines written by AI, 2,233 lines written by hand (90.37% AI-written)
+✍️ 28,819 lines written by AI, 93 lines written by hand (99.68% AI-written)
 
-🔤 76,077,635 Input Tokens, 3,443,434 Output Tokens
+🔤 53,049,007 Input Tokens, 3,962,941 Output Tokens
 
-💵 $2621.28 Estimated AI Cost This Week
+💵 $3330.58 Estimated AI Cost This Week
 
-🧠 154 AI Sessions, 532 AI Prompts
+🧠 125 AI Sessions, 487 AI Prompts
 
-Claude-Code              21,434 lines        ████████████████████████░   97.40 % 
-Deepseek                 295 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-GPT                      278 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Claude-Code              29,551 lines        █████████████████████████   98.24 % 
+GPT                      278 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Deepseek                 251 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.37% of written lines came from AI
-📄 Detailed Prompter — average 1,088 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.43% of changed lines were hand-edited
+🤖 AI-Driven — 99.68% of written lines came from AI
+📄 Detailed Prompter — average 1,253 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 05:37:20 UTC
+ Last Updated on 18/09/2026 05:25:17 UTC
 <!--END_SECTION:waka-->
