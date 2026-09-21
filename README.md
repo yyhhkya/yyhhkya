@@ -15,13 +15,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268.51%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-270.06%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 155.9 kB Used in GitHub's Storage 
+> 📦 156.9 kB Used in GitHub's Storage 
  > 
-> 🏆 832 Contributions in the Year 2026
+> 🏆 839 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                444 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-🌆 Daytime                751 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌙 Night                  194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+🌞 Morning                446 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+🌆 Daytime                752 commits         ██████████░░░░░░░░░░░░░░░   38.13 % 
+🌃 Evening                577 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌙 Night                  197 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
 
 
@@ -45,43 +45,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-TypeScript               6 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-Go                       2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Git Config               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.53 % 
+TypeScript               6 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Go                       2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Svelte                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🐱‍💻 Projects: 
-yanglaila                19 hrs 39 mins      ██████████████████████░░░   86.48 % 
-miemiefa                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-亲密喂养                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Downloads                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+yanglaila                19 hrs 38 mins      ████████████████████░░░░░   81.81 % 
+fuwari                   2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+miemiefa                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 client                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 48 mins (95.96%)
+⏱ AI Coding Time: 22 hrs 28 mins (93.57%)
 
-✍️ 21,174 lines written by AI, 77 lines written by hand (99.64% AI-written)
+✍️ 23,356 lines written by AI, 93 lines written by hand (99.6% AI-written)
 
-🔤 45,685,072 Input Tokens, 3,198,916 Output Tokens
+🔤 33,273,018 Input Tokens, 3,267,028 Output Tokens
 
-💵 $2676.24 Estimated AI Cost This Week
+💵 $2815.24 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 316 AI Prompts
+🧠 108 AI Sessions, 344 AI Prompts
 
-Claude-Code              21,754 lines        █████████████████████████   98.86 % 
-Deepseek                 251 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Claude-Code              24,092 lines        █████████████████████████   98.97 % 
+Deepseek                 251 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📚 Verbose Prompter — average 1,694 characters per prompt
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 1,578 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 05:33:53 UTC
+ Last Updated on 21/09/2026 05:41:12 UTC
 <!--END_SECTION:waka-->
