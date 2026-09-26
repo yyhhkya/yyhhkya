@@ -21,7 +21,7 @@
 
 > 📦 157.1 kB Used in GitHub's Storage 
  > 
-> 🏆 847 Contributions in the Year 2026
+> 🏆 848 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                447 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌆 Daytime                756 commits         ██████████░░░░░░░░░░░░░░░   38.16 % 
-🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌙 Night                  200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+🌞 Morning                447 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌆 Daytime                757 commits         ██████████░░░░░░░░░░░░░░░   38.19 % 
+🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌙 Night                  200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 
@@ -45,38 +45,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 17 mins       ██████████████░░░░░░░░░░░   54.18 % 
-Svelte                   1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Astro                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Markdown                 3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.73 % 
+Svelte                   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Go                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Astro                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🐱‍💻 Projects: 
-fuwari                   5 hrs 59 mins       █████████████████████████   98.69 % 
-miemiefa                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+fuwari                   5 hrs 59 mins       █████████████████████░░░░   85.85 % 
+bili-redpacket-web       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+ni-k                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+plugin-computer-use-opena2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+miemiefa                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (50.83%)
+⏱ AI Coding Time: 3 hrs 58 mins (56.96%)
 
 ✍️ 2,749 lines written by AI, 79 lines written by hand (97.21% AI-written)
 
-🔤 284,557 Input Tokens, 255,048 Output Tokens
+🔤 3,473,255 Input Tokens, 265,358 Output Tokens
 
-💵 $613.62 Estimated AI Cost This Week
+💵 $629.36 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 58 AI Prompts
+🧠 27 AI Sessions, 80 AI Prompts
 
 Claude-Code              4,588 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.21% of written lines came from AI
-📝 Concise Prompter — average 410 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 360 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 3.9% of changed lines were hand-edited
 ```
 
@@ -93,5 +97,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 05:37:17 UTC
+ Last Updated on 26/09/2026 05:43:06 UTC
 <!--END_SECTION:waka-->
