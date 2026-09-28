@@ -21,7 +21,7 @@
 
 > 📦 157.1 kB Used in GitHub's Storage 
  > 
-> 🏆 851 Contributions in the Year 2026
+> 🏆 854 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                449 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌆 Daytime                758 commits         ██████████░░░░░░░░░░░░░░░   38.19 % 
-🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌙 Night                  200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+🌞 Morning                449 commits         ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+🌆 Daytime                759 commits         ██████████░░░░░░░░░░░░░░░   38.18 % 
+🌃 Evening                580 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌙 Night                  200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 
 
@@ -45,43 +45,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.73 % 
-Svelte                   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Go                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Astro                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 3 hrs 50 mins       ███████████████░░░░░░░░░░   60.39 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Go                       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🐱‍💻 Projects: 
-fuwari                   5 hrs 59 mins       █████████████████████░░░░   85.85 % 
-bili-redpacket-web       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-ni-k                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-plugin-computer-use-opena2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-miemiefa                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+fuwari                   3 hrs 16 mins       █████████████░░░░░░░░░░░░   51.57 % 
+gpt_image_playground-0.7.1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+bili-redpacket-web       48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+chatgpt2api              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+新建文件夹                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 58 mins (56.96%)
+⏱ AI Coding Time: 3 hrs 13 mins (50.69%)
 
-✍️ 2,749 lines written by AI, 79 lines written by hand (97.21% AI-written)
+✍️ 750 lines written by AI, 64 lines written by hand (92.14% AI-written)
 
-🔤 3,473,255 Input Tokens, 265,358 Output Tokens
+🔤 3,464,478 Input Tokens, 130,034 Output Tokens
 
-💵 $629.36 Estimated AI Cost This Week
+💵 $418.92 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 80 AI Prompts
+🧠 34 AI Sessions, 82 AI Prompts
 
-Claude-Code              4,588 lines         █████████████████████████   100.00 % 
+Claude-Code              2,268 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.21% of written lines came from AI
-📝 Concise Prompter — average 360 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.9% of changed lines were hand-edited
+🤖 AI-Driven — 92.14% of written lines came from AI
+📝 Concise Prompter — average 442 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 10.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 06:01:29 UTC
+ Last Updated on 28/09/2026 06:07:31 UTC
 <!--END_SECTION:waka-->
