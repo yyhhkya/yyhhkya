@@ -11,17 +11,17 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288.53%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293.81%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 157.4 kB Used in GitHub's Storage 
+> 📦 157.5 kB Used in GitHub's Storage 
  > 
-> 🏆 855 Contributions in the Year 2026
+> 🏆 856 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                453 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌆 Daytime                760 commits         █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌃 Evening                584 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌙 Night                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌞 Morning                453 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+🌆 Daytime                761 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌃 Evening                587 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌙 Night                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 ```
 
 
@@ -45,44 +45,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
-Go                       2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Svelte                   1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown                 7 hrs               ███████████░░░░░░░░░░░░░░   42.36 % 
+Svelte                   3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Go                       2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       6 hrs 35 mins       ███████████████░░░░░░░░░░   61.75 % 
-fuwari                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-gpt_image_playground-0.7.1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-chatgpt2api              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-新建文件夹                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+bili-redpacket-web       13 hrs 21 mins      ████████████████████░░░░░   80.67 % 
+gpt_image_playground-0.7.1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+fuwari                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+chatgpt2api              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+新建文件夹                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (81.5%)
+⏱ AI Coding Time: 14 hrs 45 mins (89.21%)
 
-✍️ 5,904 lines written by AI, 375 lines written by hand (94.03% AI-written)
+✍️ 20,158 lines written by AI, 373 lines written by hand (98.18% AI-written)
 
-🔤 28,891,307 Input Tokens, 609,354 Output Tokens
+🔤 30,044,614 Input Tokens, 1,595,249 Output Tokens
 
-💵 $883.56 Estimated AI Cost This Week
+💵 $2442.44 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 187 AI Prompts
+🧠 59 AI Sessions, 255 AI Prompts
 
-Claude-Code              6,551 lines         █████████████████████░░░░   85.62 % 
-Opus                     1,100 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Claude-Code              21,257 lines        ████████████████████████░   95.08 % 
+Opus                     1,100 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.03% of written lines came from AI
-📚 Verbose Prompter — average 4,390 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.95% of changed lines were hand-edited
+🤖 AI-Driven — 98.18% of written lines came from AI
+📚 Verbose Prompter — average 3,331 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 06:25:38 UTC
+ Last Updated on 30/09/2026 06:10:46 UTC
 <!--END_SECTION:waka-->
