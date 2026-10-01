@@ -11,9 +11,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293.81%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -21,7 +21,7 @@
 
 > 📦 157.5 kB Used in GitHub's Storage 
  > 
-> 🏆 856 Contributions in the Year 2026
+> 🏆 857 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,9 +32,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                453 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌆 Daytime                761 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌃 Evening                587 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌞 Morning                453 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+🌆 Daytime                762 commits         █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌃 Evening                587 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
 🌙 Night                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 ```
 
@@ -45,44 +45,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs               ███████████░░░░░░░░░░░░░░   42.36 % 
-Svelte                   3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Go                       2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 7 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+Svelte                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Go                       2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JavaScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       13 hrs 21 mins      ████████████████████░░░░░   80.67 % 
-gpt_image_playground-0.7.1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-fuwari                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-chatgpt2api              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-新建文件夹                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+bili-redpacket-web       14 hrs 1 min        ████████████████░░░░░░░░░   63.88 % 
+bili_barrage             5 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+gpt_image_playground-0.7.1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+chatgpt2api              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+新建文件夹                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 45 mins (89.21%)
+⏱ AI Coding Time: 20 hrs 51 mins (95.06%)
 
-✍️ 20,158 lines written by AI, 373 lines written by hand (98.18% AI-written)
+✍️ 28,329 lines written by AI, 349 lines written by hand (98.78% AI-written)
 
-🔤 30,044,614 Input Tokens, 1,595,249 Output Tokens
+🔤 70,883,256 Input Tokens, 2,087,613 Output Tokens
 
-💵 $2442.44 Estimated AI Cost This Week
+💵 $2915.63 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 255 AI Prompts
+🧠 62 AI Sessions, 317 AI Prompts
 
-Claude-Code              21,257 lines        ████████████████████████░   95.08 % 
-Opus                     1,100 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              20,614 lines        ██████████████████░░░░░░░   71.23 % 
+Deepseek                 7,225 lines         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Opus                     1,100 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.18% of written lines came from AI
-📚 Verbose Prompter — average 3,331 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.8% of changed lines were hand-edited
+🤖 AI-Driven — 98.78% of written lines came from AI
+📚 Verbose Prompter — average 3,729 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +96,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 06:10:46 UTC
+ Last Updated on 01/10/2026 06:42:44 UTC
 <!--END_SECTION:waka-->
