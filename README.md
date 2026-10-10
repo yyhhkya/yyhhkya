@@ -21,7 +21,7 @@
 
 > 📦 158.3 kB Used in GitHub's Storage 
  > 
-> 🏆 962 Contributions in the Year 2026
+> 🏆 963 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,9 +32,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-🌆 Daytime                600 commits         █████████░░░░░░░░░░░░░░░░   36.54 % 
-🌃 Evening                530 commits         ████████░░░░░░░░░░░░░░░░░   32.28 % 
+🌞 Morning                297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+🌆 Daytime                601 commits         █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌃 Evening                530 commits         ████████░░░░░░░░░░░░░░░░░   32.26 % 
 🌙 Night                  215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 ```
 
@@ -45,43 +45,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
-TypeScript               3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Markdown                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Go                       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JavaScript               5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.49 % 
+Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+TypeScript               2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Svelte                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Go                       40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       10 hrs 52 mins      ███████████████████░░░░░░   74.65 % 
-bili_barrage             2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-fuwari                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+bili-redpacket-web       10 hrs 47 mins      ██████████████████████░░░   86.85 % 
+fuwari                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 prism                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+bili_barrage             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 bili-danmaku-output      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 20 mins (98.43%)
+⏱ AI Coding Time: 12 hrs 19 mins (99.26%)
 
-✍️ 16,463 lines written by AI, 6 lines written by hand (99.96% AI-written)
+✍️ 15,949 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 40,259,495 Input Tokens, 1,277,687 Output Tokens
+🔤 9,778,007 Input Tokens, 1,203,356 Output Tokens
 
-💵 $1922.43 Estimated AI Cost This Week
+💵 $1755.81 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 178 AI Prompts
+🧠 73 AI Sessions, 137 AI Prompts
 
-Claude-Code              10,036 lines        ██████████████░░░░░░░░░░░   57.24 % 
-DeepSeek                 6,556 lines         █████████░░░░░░░░░░░░░░░░   37.39 % 
-Opus                     813 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-GPT                      129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Claude-Code              10,036 lines        ███████████████░░░░░░░░░░   59.56 % 
+DeepSeek                 6,447 lines         ██████████░░░░░░░░░░░░░░░   38.26 % 
+Opus                     238 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+GPT                      129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 1,443 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 1,851 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.48% of changed lines were hand-edited
+🚀 High AI Trust — 1.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 06:59:10 UTC
+ Last Updated on 10/10/2026 06:33:42 UTC
 <!--END_SECTION:waka-->
