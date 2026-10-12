@@ -21,7 +21,7 @@
 
 > 📦 158.3 kB Used in GitHub's Storage 
  > 
-> 🏆 964 Contributions in the Year 2026
+> 🏆 965 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-🌆 Daytime                602 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
-🌃 Evening                530 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
-🌙 Night                  215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+🌞 Morning                297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+🌆 Daytime                603 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌃 Evening                530 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌙 Night                  215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 ```
 
 
@@ -45,41 +45,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
-TypeScript               1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Svelte                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Go                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+JavaScript               2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
+TypeScript               1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Svelte                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       6 hrs 54 mins       ████████████████████░░░░░   80.89 % 
-fuwari                   1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-bili_barrage             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+bili-redpacket-web       4 hrs               ██████████████████░░░░░░░   71.08 % 
+fuwari                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+bili_barrage             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 bili-danmaku-output      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 31 mins (99.83%)
+⏱ AI Coding Time: 5 hrs 37 mins (99.74%)
 
-✍️ 9,447 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,157 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,057,034 Input Tokens, 727,638 Output Tokens
+🔤 7,461,897 Input Tokens, 441,222 Output Tokens
 
-💵 $1119.66 Estimated AI Cost This Week
+💵 $839.68 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 105 AI Prompts
+🧠 58 AI Sessions, 68 AI Prompts
 
-DeepSeek                 5,281 lines         ████████████░░░░░░░░░░░░░   48.87 % 
-Claude-Code              5,159 lines         ████████████░░░░░░░░░░░░░   47.74 % 
-Opus                     238 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-GPT                      129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Claude-Code              3,686 lines         ██████████████░░░░░░░░░░░   56.83 % 
+DeepSeek                 2,562 lines         ██████████░░░░░░░░░░░░░░░   39.50 % 
+Opus                     238 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 547 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 610 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 06:39:03 UTC
+ Last Updated on 12/10/2026 06:47:02 UTC
 <!--END_SECTION:waka-->
