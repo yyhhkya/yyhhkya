@@ -21,7 +21,7 @@
 
 > 📦 158.8 kB Used in GitHub's Storage 
  > 
-> 🏆 989 Contributions in the Year 2026
+> 🏆 990 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                301 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-🌆 Daytime                607 commits         █████████░░░░░░░░░░░░░░░░   36.37 % 
-🌃 Evening                537 commits         ████████░░░░░░░░░░░░░░░░░   32.17 % 
-🌙 Night                  224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌞 Morning                301 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+🌆 Daytime                608 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌃 Evening                537 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
+🌙 Night                  224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 
 
@@ -45,38 +45,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               42 mins             ████████░░░░░░░░░░░░░░░░░   30.91 % 
-Svelte                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-JavaScript               29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Svelte                   34 mins             ██████████████████████░░░   89.25 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-fuwari                   1 hr 37 mins        ██████████████████░░░░░░░   71.72 % 
-bili-redpacket-web       38 mins             ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+bili-redpacket-web       38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (99.36%)
+⏱ AI Coding Time: 38 mins (100.0%)
 
-✍️ 453 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 125 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,756,021 Input Tokens, 182,297 Output Tokens
+🔤 3,053,242 Input Tokens, 15,652 Output Tokens
 
-💵 $396.87 Estimated AI Cost This Week
+💵 $122.34 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 35 AI Prompts
+🧠 5 AI Sessions, 19 AI Prompts
 
-Claude-Code              1,202 lines         ███████████████████░░░░░░   74.61 % 
-Opus                     238 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-DeepSeek                 171 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Claude-Code              807 lines           █████████████████░░░░░░░░   66.37 % 
+Opus                     238 lines           █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+DeepSeek                 171 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 861 characters per prompt
+📄 Detailed Prompter — average 1,197 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -84,15 +82,15 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 14/10/2026 05:38:25 UTC
+ Last Updated on 15/10/2026 05:25:37 UTC
 <!--END_SECTION:waka-->
