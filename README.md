@@ -11,15 +11,15 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:wakapi-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264.46%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 159.2 kB Used in GitHub's Storage 
+> 📦 159.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,068 Contributions in the Year 2026
+> 🏆 1,076 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,10 +30,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                331 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-🌆 Daytime                611 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌃 Evening                575 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌙 Night                  231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌞 Morning                338 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+🌆 Daytime                611 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌃 Evening                575 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌙 Night                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
 
 
@@ -43,10 +43,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Go                       3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Javascript               3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+CSS                      0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bili-redpacket-web       21 hrs 12 mins      ████████████████████████░   94.98 % 
+yyhhkya                  0 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+code tmp                 0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +68,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 17:08:13 UTC
+ Last Updated on 17/10/2026 08:16:16 UTC
 <!--END_SECTION:wakapi-->
