@@ -11,7 +11,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:wakapi-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.54%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -19,7 +19,7 @@
 
 > 📦 159.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,080 Contributions in the Year 2026
+> 🏆 1,081 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,9 +30,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-🌆 Daytime                612 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌃 Evening                575 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌞 Morning                339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌆 Daytime                612 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌃 Evening                575 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
 🌙 Night                  234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
@@ -43,18 +43,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Svelte                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Markdown                 5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Javascript               2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-TSX                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Go                       7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Svelte                   6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Markdown                 5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+CSS                      2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+TSX                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       21 hrs 28 mins      ██████████████████░░░░░░░   72.91 % 
-cat-raising              6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-yyhhkya                  1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-code tmp                 0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-koishi-plugin-adapter-one0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+bili-redpacket-web       18 hrs 14 mins      ███████████████░░░░░░░░░░   58.41 % 
+cat-raising              11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   36.20 % 
+yyhhkya                  1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+unknown                  0 hrs 27 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+code tmp                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,5 +70,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 23:17:03 UTC
+ Last Updated on 19/10/2026 21:00:00 UTC
 <!--END_SECTION:wakapi-->
