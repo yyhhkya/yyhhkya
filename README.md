@@ -11,29 +11,29 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:wakapi-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.54%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 159.3 kB Used in GitHub's Storage 
+> 📦 160.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,081 Contributions in the Year 2026
+> 🏆 1,194 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-🌆 Daytime                612 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
-🌃 Evening                575 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
-🌙 Night                  234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌞 Morning                366 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌆 Daytime                664 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌃 Evening                592 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌙 Night                  250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 ```
 
 
@@ -43,32 +43,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Svelte                   6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Markdown                 5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-CSS                      2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-TSX                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Go                       10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Markdown                 6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Svelte                   5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+TSX                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+CSS                      4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       18 hrs 14 mins      ███████████████░░░░░░░░░░   58.41 % 
-cat-raising              11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   36.20 % 
-yyhhkya                  1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-unknown                  0 hrs 27 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-code tmp                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+cat-raising              20 hrs 11 mins      █████████████░░░░░░░░░░░░   52.96 % 
+bili-redpacket-web       16 hrs 13 mins      ███████████░░░░░░░░░░░░░░   42.55 % 
+yyhhkya                  1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+unknown                  0 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+code tmp                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 19/10/2026 21:00:00 UTC
+ Last Updated on 20/10/2026 19:59:27 UTC
 <!--END_SECTION:wakapi-->
