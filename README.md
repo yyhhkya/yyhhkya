@@ -11,15 +11,15 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:wakapi-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298.58%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.5 kB Used in GitHub's Storage 
+> 📦 160.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,194 Contributions in the Year 2026
+> 🏆 1,222 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,10 +30,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                366 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌆 Daytime                664 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                592 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌙 Night                  250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+🌞 Morning                367 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌆 Daytime                668 commits         █████████░░░░░░░░░░░░░░░░   35.16 % 
+🌃 Evening                603 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
+🌙 Night                  262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 ```
 
 
@@ -43,17 +43,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Markdown                 6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Svelte                   5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-TSX                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-CSS                      4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Go                       10 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Markdown                 6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+TSX                      5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Svelte                   5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+CSS                      4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 
 🐱‍💻 Projects: 
-cat-raising              20 hrs 11 mins      █████████████░░░░░░░░░░░░   52.96 % 
-bili-redpacket-web       16 hrs 13 mins      ███████████░░░░░░░░░░░░░░   42.55 % 
-yyhhkya                  1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-unknown                  0 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+cat-raising              22 hrs 56 mins      ███████████████░░░░░░░░░░   60.70 % 
+bili-redpacket-web       13 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
+yyhhkya                  1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+unknown                  0 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 code tmp                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
@@ -70,5 +70,5 @@ Svelte                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 19:59:27 UTC
+ Last Updated on 21/10/2026 20:02:22 UTC
 <!--END_SECTION:wakapi-->
