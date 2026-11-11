@@ -11,29 +11,29 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:wakapi-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-395.09%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-408.37%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 166.2 kB Used in GitHub's Storage 
+> 📦 166.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,432 Contributions in the Year 2026
+> 🏆 1,457 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                433 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-🌆 Daytime                704 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
-🌃 Evening                630 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌙 Night                  342 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+🌞 Morning                435 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌆 Daytime                718 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
+🌃 Evening                637 commits         ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+🌙 Night                  343 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
 
@@ -43,31 +43,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typescript               11 hrs 45 mins      ██████████████░░░░░░░░░░░   56.30 % 
-Markdown                 4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-TSX                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Javascript               0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Json                     0 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Typescript               7 hrs 17 mins       █████████████░░░░░░░░░░░░   50.22 % 
+Markdown                 3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+TSX                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Json                     0 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Javascript               0 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-bili-redpacket-web       12 hrs 20 mins      ███████████████░░░░░░░░░░   59.09 % 
-BoneBowl                 6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-bili-danmaku-capture     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-bilibili-API-collect     0 hrs 19 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+BoneBowl                 6 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.34 % 
+bili-redpacket-web       5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
+bili-danmaku-capture     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+bilibili-API-collect     0 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ████████████░░░░░░░░░░░░░   48.15 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               14 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 10/11/2026 21:47:20 UTC
+ Last Updated on 11/11/2026 22:37:44 UTC
 <!--END_SECTION:wakapi-->
