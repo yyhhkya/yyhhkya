@@ -11,15 +11,15 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:wakapi-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.17%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-427.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 170.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,501 Contributions in the Year 2026
+> 🏆 1,521 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,10 +30,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-🌆 Daytime                729 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌃 Evening                649 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌙 Night                  348 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌞 Morning                457 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+🌆 Daytime                729 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌃 Evening                663 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌙 Night                  348 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 ```
 
 
@@ -43,18 +43,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typescript               6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
-Markdown                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Javascript               1 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Json                     0 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-TSX                      0 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Typescript               5 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+Markdown                 1 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Javascript               1 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+TSX                      0 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Json                     0 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🐱‍💻 Projects: 
-BoneBowl                 5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.60 % 
-bili-danmaku-capture     3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-cat-raising              3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-bilibili-API-collect     0 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-DVI_DaoGou               0 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+cat-raising              5 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.00 % 
+BoneBowl                 5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
+DVI_DaoGou               0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+bili-danmaku-capture     0 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+bilibili-API-collect     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,5 +70,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 00:09:03 UTC
+ Last Updated on 17/11/2026 23:28:29 UTC
 <!--END_SECTION:wakapi-->
