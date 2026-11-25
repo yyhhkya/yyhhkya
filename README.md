@@ -19,7 +19,7 @@
 
 > 📦 153.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,580 Contributions in the Year 2026
+> 🏆 1,581 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,9 +30,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                500 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-🌆 Daytime                731 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌃 Evening                675 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌞 Morning                501 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+🌆 Daytime                731 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌃 Evening                675 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 🌙 Night                  350 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 ```
 
@@ -43,18 +43,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TSX                      3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Markdown                 3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Typescript               2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Javascript               0 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Python                   0 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+TSX                      2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Typescript               2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Markdown                 2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Python                   0 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Json                     0 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🐱‍💻 Projects: 
-playlist                 3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
-BoneBowl                 3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-cat-raising              1 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-bili-redpacket-web       1 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-kg                       0 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+playlist                 3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
+BoneBowl                 3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
+kg                       0 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+bili-danmaku-capture     0 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+bili-redpacket-web       0 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,5 +70,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 02:52:21 UTC
+ Last Updated on 25/11/2026 00:32:55 UTC
 <!--END_SECTION:wakapi-->
